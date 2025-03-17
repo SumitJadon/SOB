@@ -1,0 +1,39 @@
+Semperit Onboarding Buddy - SharePoint Copilot Agent
+
+👉️ Empowering Seamless Employee Onboarding with SharePoint Agent & Copilot
+
+💡Idea Overview
+The Semperit Onboarding buddy is an intelligent assistant designed to streamline, personalize, and automate the onboarding experience for new Semperit employees. It integrates with SharePoint, Microsoft Teams, Outlook, and HR tools (e.g., SharePoint, SAP SuccessFactors) to provide a one-stop onboarding hub.
+
+1. Welcome Message & Orientation: 
+🔹 Personalized welcome message with key company information.
+🔹Interactive checklist for first-day tasks (related to point 2 - automatic document fetch, e.g., safety instruction for new employees, induction plan, time tracking - ATOSS)
+🔹Virtual office tour that also supports in answering common first-day questions (e.g., location of facilities, login credentials,  Edenred/cafeteria, security access, printers, etc.)
+🔹 SharePoint Tour
+🔹Workstation setup guidance (ergonomics, monitor positioning, chair adjustments).
+🔹End-of-day check-in with a summary of completed tasks and feedback collection.
+🎯 Extendable/Unique Edge: Faster and more efficient orientation and provide sense of personalized and adaptive onboarding experience for the employee.
+
+2. Smart Document Retrieval & Guidance
+🔹 Automatically fetch and organize relevant documents (policies, guidelines, training guides, other useful information).
+🔹 Interactive chatbot for answering document-related queries (e.g., "Where’s my benefits policy/Travel policy?").
+🎯 Extendable/Unique Edge: Uses OCR/Automate to process various file types (PDFs, PowerPoints, videos, interactive forms).
+
+ 3. Personalized Learning & Training
+🔹 General Training - Access to training modules/ documents, Microsoft tools.
+ 🎯Extendable/Unique Edge: AI based quick/unofficial assessment.
+
+ 4. Process Automation & Task Management
+🔹 Auto-assign tasks (e.g., Account creation request, IT Setup, HW/SW, post-hire necessary information retrieval/forms).
+🔹 Links to M365 & SuccessFactors Profiles Setup (Display Pic, Name Pronunciation, Status, Work Location, preferred Name, Gender, Pronouns)
+🔹 🎯 Extendable/Unique Edge: AI suggests deadlines & priorities based on historical data.
+
+ 5. Virtual Mentor & Culture Integration
+🔹 Propose planned check-in - In person meetups/virtual with own Supervisor, Department Heads, HR, other relevant people.
+🔹 Interactive FAQs about company culture, policies, important processes.
+🎯 Extendable/Unique Edge: Copilot-generated "1-Week Personalized Roadmap" for every new hire.
+
+ 6. Employee Feedback & Sentiment Analysis
+🔹 Periodic pulse-check for real-time onboarding feedback.
+🎯 Extendable/Unique Edge: AI-based sentiment checks to detect onboarding experience issues.
+🎯 Extendable/Unique Edge: AI-powered engagement heatmap highlighting improvement areas.
